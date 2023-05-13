@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e173ee05.css",
+    "main.js": "/static/js/main.b46875c6.js",
+    "static/media/video.mp4": "/static/media/video.d2ab28d84005453f7751.mp4",
+    "static/media/jentleman.jpg": "/static/media/jentleman.99e507521001c4b69dde.jpg",
+    "static/media/service-1.png": "/static/media/service-1.5428a0262b0d1e3d5098.png",
+    "static/media/service-3.png": "/static/media/service-3.84f3c0617b6911137d6d.png",
+    "static/media/home2-img.png": "/static/media/home2-img.55c615e43a5d918c8f13.png",
+    "static/media/home3-img.png": "/static/media/home3-img.458a3b2324fb608058ff.png",
+    "static/media/service-2.png": "/static/media/service-2.7a3716ea484c4d0d86e8.png",
+    "static/media/home1-img.png": "/static/media/home1-img.2f9f811fa18cccd9b885.png",
+    "static/media/logo.png": "/static/media/logo.8461ed3d4cebff347695.png",
+    "static/media/pattern-AZMOS.patt": "/static/media/pattern-AZMOS.0f20e900b28089625875.patt",
+    "index.html": "/index.html",
+    "main.e173ee05.css.map": "/static/css/main.e173ee05.css.map",
+    "main.b46875c6.js.map": "/static/js/main.b46875c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e173ee05.css",
+    "static/js/main.b46875c6.js"
+  ]
+}
